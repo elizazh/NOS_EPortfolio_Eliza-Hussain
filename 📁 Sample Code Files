@@ -1,0 +1,24 @@
+📁 NOS_EPortfolio/
+├── README.md
+├── Week01_Intro/
+│   └── system_overview.md
+├── Week02_Application_Layer/
+│   ├── http_client.py
+│   └── notes.md
+├── Week03_Transport_Layer/
+│   ├── tcp_server.py
+│   ├── tcp_client.py
+│   └── notes.md
+├── Week04_Network_Layer/
+│   └── subnet_calc.py
+├── Week05_Data_Link/
+│   └── wireshark_analysis.md
+├── Week06_Wireless/
+│   └── wifi_scan.sh
+├── Week07_OS_Intro/
+│   └── process_list.sh
+├── Week08_OS_Mechanisms/
+│   └── memory_usage.sh
+├── Week09_Virtualization/
+│   └── docker_demo.md
+└── reflections.md
