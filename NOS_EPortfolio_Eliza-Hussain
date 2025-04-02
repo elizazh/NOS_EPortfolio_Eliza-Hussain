@@ -1,0 +1,30 @@
+# NOS_EPortfolio_Eliza-Hussain
+This repository contains the E-Portfolio for the **Networks and Operating Systems** module as part of my university coursework.
+
+It documents weekly practical tasks, including socket programming, HTTP client creation, subnetting tools, Linux scripting, Docker usage, and operating system mechanisms.
+
+**Module Code:** CAH11-01-01  
+**Assessment Weight:** 25%  
+**Submission Date:**  03 april 2025
+
+
+##  Weekly Breakdown
+
+| Week | Topic                            | Folder                        |
+|------|----------------------------------|-------------------------------|
+| 1    | Intro to Networks & OS           | Week01_Intro/                 |
+| 2    | Application Layer (HTTP)         | Week02_Application_Layer/     |
+| 3    | Transport Layer (TCP/UDP)        | Week03_Transport_Layer/       |
+| 4    | Network Layer (IP/Subnetting)    | Week04_Network_Layer/         |
+| 5    | Data Link Layer (Ethernet)       | Week05_Data_Link/             |
+| 6    | Wireless Networks                | Week06_Wireless/              |
+| 7    | Operating System Intro           | Week07_OS_Intro/              |
+| 8    | OS Memory/Processes              | Week08_OS_Mechanisms/         |
+| 9    | Virtualisation & Docker          | Week09_Virtualization/        |
+
+## 📂 Other Files
+
+- `reflections.md` — Weekly reflections
+
+
+
